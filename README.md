@@ -38,6 +38,6 @@ Para executar o projeto normalmente:
 * Adicionar novos vídeos via youtube deforma simples e rápida;
 
 
-## Screenshots
+## Interfaces
 ![Screenshot da tela inicial do AluraPlay](https://imgur.com/aymxEsh.png)
 ![Screenshot da tela do formulário do AluraPlay](https://imgur.com/ShNADf2.png)
