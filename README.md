@@ -1,4 +1,4 @@
-<h2>*O servidor criado com o json-server para este projeto é local! Por este motivo o projeto deve ser aberto em sua máquina para acessá-lo por completo.
+<p>*O servidor criado com o json-server para este projeto é local! Por este motivo o projeto deve ser aberto em sua máquina para acessá-lo por completo.
 <br>
 Para executar o projeto normalmente:
 <br>
@@ -14,7 +14,7 @@ Para executar o projeto normalmente:
 <br>
 -Se der erro use: npx json-server --watch db.json;
 <br>
--Pronto! Agora é só abrir com o Live Server e conferir em seu navegador!
+-Pronto! Agora é só abrir com o Live Server e conferir em seu navegador!😁
 </h2>
 <p align="center"> <img src="https://imgur.com/J3hD21O.png" alt="Javascript: criando requisições"> </p>
 
@@ -31,6 +31,12 @@ Para executar o projeto normalmente:
 ## Tecnologias utilizadas no projeto
 * HTML
 * CSS
+
+## Funções
+* Buscar vídeos;
+* Assistir os vídeos;
+* Adicionar novos vídeos via youtube deforma simples e rápida;
+
 
 ## Screenshots
 ![Screenshot da tela inicial do AluraPlay](https://imgur.com/aymxEsh.png)
